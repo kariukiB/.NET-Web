@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\RiderProjects\\TestWebApp\\testwebapp\\TestWebApp.csproj": {}
+    "C:\\Users\\user\\RiderProjects\\TestWebApp\\TestWebApp\\TestWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\RiderProjects\\TestWebApp\\testwebapp\\TestWebApp.csproj": {
+    "C:\\Users\\user\\RiderProjects\\TestWebApp\\TestWebApp\\TestWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\TestWebApp\\testwebapp\\TestWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\user\\RiderProjects\\TestWebApp\\TestWebApp\\TestWebApp.csproj",
         "projectName": "TestWebApp",
-        "projectPath": "C:\\Users\\user\\RiderProjects\\TestWebApp\\testwebapp\\TestWebApp.csproj",
+        "projectPath": "C:\\Users\\user\\RiderProjects\\TestWebApp\\TestWebApp\\TestWebApp.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\RiderProjects\\TestWebApp\\testwebapp\\obj\\",
+        "outputPath": "C:\\Users\\user\\RiderProjects\\TestWebApp\\TestWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
